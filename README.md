@@ -16,6 +16,8 @@ step1 - clone this repositor in your local machine to clone use below command
 
 Step2 - Now you have to install all requiremets/libraries
  pip install requirements.txt
+
+ and also a big shout out for the author which helped me 
    
   
   
